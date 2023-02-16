@@ -13,7 +13,7 @@
 
 ## Conhecimentos 💻
 <div align="center" marginTop="60px">
-  <img src="https://skillicons.dev/icons?i=python,c,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,postgres,arduino,git,linux" />
 </div> 		
 
 #
